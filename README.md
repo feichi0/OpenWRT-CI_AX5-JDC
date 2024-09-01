@@ -2,12 +2,12 @@
 云编译OpenWRT固件
 
 官方版：
-    https://github.com/immortalwrt/immortalwrt.git
+- https://github.com/immortalwrt/immortalwrt.git
 
 高通版：
 - https://github.com/VIKINGYFY/immortalwrt.git
 - https://github.com/LiBwrt-op/openwrt-6.x.git
--[]https://github.com/King-Of-Knights/openwrt-6.x.git
+- https://github.com/King-Of-Knights/openwrt-6.x.git
 
 # 固件简要说明：
 
