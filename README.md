@@ -2,10 +2,12 @@
 云编译OpenWRT固件
 
 官方版：
-https://github.com/immortalwrt/immortalwrt.git
+    https://github.com/immortalwrt/immortalwrt.git
 
 高通版：
-https://github.com/VIKINGYFY/immortalwrt.git
+    https://github.com/VIKINGYFY/immortalwrt.git
+    https://github.com/LiBwrt-op/openwrt-6.x.git
+-[x]https://github.com/King-Of-Knights/openwrt-6.x.git
 
 # 固件简要说明：
 
@@ -13,7 +15,7 @@ https://github.com/VIKINGYFY/immortalwrt.git
 
 固件信息里的时间为编译开始的时间，方便核对上游源码提交时间。
 
-MEDIATEK系列、QUALCOMMAX系列、ROCKCHIP系列、X86系列。
+QUALCOMMAX AX5-JDC。
 
 # 目录简要说明：
 
